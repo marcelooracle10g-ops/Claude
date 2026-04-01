@@ -1,0 +1,9 @@
+{
+  "short_name": "Cosméticos",
+  "name": "Cosméticos - App de Pedidos",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#1e293b",
+  "background_color": "#f8fafc"
+}
